@@ -1,0 +1,14 @@
+.Navbar{
+    display: flex;
+    /* justify-content: space-between; */
+    background-color: rgb(163, 248, 166);
+
+}
+.navbar-link{
+    display: flex; 
+    align-items: center;
+    padding: 10px;
+}
+.sekhar-portfolio{
+    color: #3d0bef;
+}

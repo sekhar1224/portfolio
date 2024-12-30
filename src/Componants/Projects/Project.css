@@ -1,0 +1,21 @@
+.projects-container{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    background-color: rgb(248, 247, 247);
+    
+}
+.img1{
+    height: 350px;
+    width: 730px;
+}
+.img2{
+    height: 350px;
+    width: 730px; 
+}
+.Projects{
+    text-align: center;
+    font-size: 2rem;
+    width: 100%;
+}

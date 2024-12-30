@@ -1,0 +1,79 @@
+.about-me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    margin-bottom: 20px; /* Increased spacing */
+  }
+  
+  .about-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    flex-wrap: wrap;
+    
+  }
+  
+
+  .about {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+    color: white;
+    margin-top: 80px;
+  }
+  
+
+  .about-content {
+    font-size: 20px;
+    margin-bottom: 70px;
+    line-height: 1.6;
+    color: black;
+    
+  }
+  
+
+  .img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%; 
+    margin-right: 20px; 
+    border-radius: 300px; 
+    overflow: hidden; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .img-sekhar {
+    width: 100%;
+    height: 100%;
+    
+  }
+  
+  .dwnld-cv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .dwnld-cv button {
+    padding: 12px 25px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .dwnld-cv button:hover {
+    background-color: #3a65bb;
+  }
+  

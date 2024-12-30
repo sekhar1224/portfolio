@@ -1,0 +1,64 @@
+.Contact {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2rem;
+  }
+  
+  .contact-main-container {
+    display: flex;
+    height: 65vh;
+
+  }
+  
+  .contact-green {
+    background-color: rgb(162, 233, 162);
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    
+
+  }
+  
+  .contact-red {
+    background-color: rgb(202, 153, 153);
+    flex: 1; /* Takes up the other half of the screen */
+    color: rgb(8, 8, 8);
+    padding: 20px;
+  }
+  
+  .contact-deatails {
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    margin-left: 190px;
+    
+}
+
+  
+  .Contact-Form {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    
+  }
+  
+  .Contact-Form label {
+    margin-top: 10px;
+  }
+  
+  .Contact-Form input {
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    width: 60%;
+    border-radius: 10px;
+  }
+  Contact-Form textarea {
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    width: 60%;
+    
+  }
