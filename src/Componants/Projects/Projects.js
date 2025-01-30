@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <><h2 className='Projects'>Projects</h2>
     
-    <div className='projects-container'>
+    <div id="Projects" className='projects-container'>
         <div className='project1'>
             <img className='img1' src='/Assets/Dev.jpg' alt='devimage'/>
             <h3>Netflix Clone</h3>

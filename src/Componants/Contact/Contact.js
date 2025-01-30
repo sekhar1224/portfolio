@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <>
       <h3 className='Contact'>Contact</h3>
-      <div className='contact-main-container'>
+      <div id='Contact' className='contact-main-container'>
         <div className='contact-green'>
           <div className='contact-deatails'>
             <p><b>Get In Touch</b> <br/><br/>Sekharkumar0722gmail.com<br/>9550945732</p>

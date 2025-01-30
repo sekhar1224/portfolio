@@ -2,7 +2,7 @@
     background-color: rgb(77, 173, 104);
 }
 .homepage-container{
-    background-image: url(C:\Users\sekha\portfolio\public\Assets\homepage.png);
+    background-image: url(C:/Users/sekha/portfolio/public/Assets/homepage.jpg);
     justify-content: center;
     text-align: center;
     height: 90vh;
@@ -13,12 +13,10 @@
     text-align: center;
     /* justify-content: center; */
     /* align-items: center; */
-    color: rgb(20, 20, 21);
-    font-size: 55px;
-    
-   
-    
+    color: rgb(6, 6, 6);
+    font-size: 55px; 
 }
+
 .btn{
     padding: 12px 28px;
     background-color: rgba(169, 234, 239, 0.279);
@@ -42,3 +40,7 @@
     text-align: center;
     font-size: 30px;
 }
+.homepage-container{
+    opacity: 1 !important;
+}
+

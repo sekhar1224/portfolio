@@ -5,7 +5,7 @@ function Technologies() {
   return (
     <>
       <h2 className='technologies'>Technologies</h2>
-      <div className='container'>
+      <div id='Technologies' className='container'>
         <div className='card'>
           <h3>Frontend Development</h3>
           <p>React, Angular, JavaScript, TypeScript, Tailwind CSS, Material UI, AntD UI.</p>
