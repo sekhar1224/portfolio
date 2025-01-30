@@ -2,7 +2,7 @@
     background-color: rgb(77, 173, 104);
 }
 .homepage-container{
-    background-image: url(C:/Users/sekha/portfolio/public/Assets/homepage.jpg);
+    /* background-image: url(C:/Users/sekha/portfolio/public/Assets/homepage.jpg); */
     justify-content: center;
     text-align: center;
     height: 90vh;
